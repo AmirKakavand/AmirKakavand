@@ -10,6 +10,3 @@ Mozart is cool! ^__^
 
 ### Skills :computer:   
 React JS | Next JS | Three JS | Blender | Javascript | Typescript | HTML & CSS | Material UI | Chakra UI | Bootstrap | SASS
-
-### Resume  :page_with_curl:
-Check out my full resume [here](https://github.com/AmirKakavand/AmirKakavand/files/7075123/AmirKakavand_Resume.pdf).
